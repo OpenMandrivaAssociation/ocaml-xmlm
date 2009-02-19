@@ -7,6 +7,7 @@ Group:          Development/Other
 URL:            http://erratique.ch/software/xmlm
 Source0:        http://erratique.ch/software/xmlm/releases/xmlm-%{version}.tbz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
+BuildRequires:  ocaml
 Requires:       ocaml
 
 %description
