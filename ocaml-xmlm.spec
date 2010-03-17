@@ -1,6 +1,6 @@
 Name:           ocaml-xmlm
-Version:        1.0.1
-Release:        %mkrel 2
+Version:        1.0.2
+Release:        %mkrel 1
 Summary:        Streaming XML input/output for OCaml
 License:        new-BSD
 Group:          Development/Other
