@@ -57,3 +57,21 @@ rm -rf %{buildroot}
 %{_libdir}/ocaml/xmlm/xmlm.mli
 %{_libdir}/ocaml/xmlm/xmlm.ml
 
+
+
+%changelog
+* Wed Mar 17 2010 Florent Monnier <blue_prawn@mandriva.org> 1.0.2-1mdv2010.1
++ Revision: 522813
+- update to new version 1.0.2
+
+* Sat Jun 27 2009 Guillaume Rousse <guillomovitch@mandriva.org> 1.0.1-2mdv2010.0
++ Revision: 390087
+- rebuild
+
+* Thu Feb 19 2009 Florent Monnier <blue_prawn@mandriva.org> 1.0.1-1mdv2009.1
++ Revision: 342935
+- ocaml required to build
+- * Thu Feb 19 2009 Florent Monnier <blue_prawn@mandriva.org> 1.0.1-1mdv
+- Initial RPM release (please care that the upstream doc tells this software is designed to be used included)
+
+
