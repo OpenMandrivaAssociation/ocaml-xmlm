@@ -4,7 +4,7 @@
 Summary:	Streaming XML input/output for OCaml
 Name:		ocaml-xmlm
 Version:	1.0.2
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Other
 Url:		http://erratique.ch/software/xmlm
