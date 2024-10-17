@@ -7,7 +7,7 @@ Version:	1.0.2
 Release:	3
 License:	BSD
 Group:		Development/Other
-Url:		http://erratique.ch/software/xmlm
+Url:		https://erratique.ch/software/xmlm
 Source0:	http://erratique.ch/software/xmlm/releases/xmlm-%{version}.tbz
 BuildRequires:	ocaml
 
